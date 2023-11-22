@@ -1,0 +1,13 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "CawBoomWeb.data.unityweb",
+"wasmCodeUrl": "CawBoomWeb.wasm.code.unityweb",
+"wasmFrameworkUrl": "CawBoomWeb.wasm.framework.unityweb",
+"asmCodeUrl": "CawBoomWeb.asm.code.unityweb",
+"asmMemoryUrl": "CawBoomWeb.asm.memory.unityweb",
+"asmFrameworkUrl": "CawBoomWeb.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#808080"
+}
